@@ -1,6 +1,7 @@
 # FoodLinker
 
-The FoodShare platform is designed to provide a seamless digital interface for restaurants, grocery stores, and individuals to donate surplus food to local shelters or individuals in need. By doing so, this initiative aims to reduce food wastage while fostering a sense of community responsibility and support. The platform connects donors, recipients, and volunteers to ensure efficient and effective management of food resources.
+FoodLinker is a digital platform that streamlines the process of donating surplus food by connecting restaurants, grocery stores, and individuals with local shelters and people in need. The initiative is driven by a mission to minimize food waste while promoting community engagement and social responsibility. By linking donors, recipients, and volunteers, FoodShare ensures the efficient and organized distribution of excess food to those who need it most.
+
 
 ## Table of Contents
 
