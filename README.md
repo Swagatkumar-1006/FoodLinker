@@ -79,48 +79,15 @@ The Profile component in FoodShare is responsible for displaying user analytics,
 ## Interfaces
 
 ### Home
-<table>
- <tr> 
-    <td><img src="./ScreenShots/home.PNG" alt="Image 1" width="300" height="200"></td>
-    <td><img src="./ScreenShots/home3.PNG" alt="Image 2" width="300" height="200"></td>
-  </tr>
-</table>
+
 
 ### Desktop 
 
-<table>
- <tr> 
-    <td><img src="./ScreenShots/desktop.PNG" alt="Image 1" width="300" height="200"></td>
-    <td><img src="./ScreenShots/desktop2.PNG" alt="Image 2" width="300" height="200"></td>
-  </tr>
-</table>
+
 
 ### Profile
 
-<table>
- <tr> 
-    <td><img src="./ScreenShots/profile.PNG" alt="Image 1" width="300" height="200"></td>
-    <td><img src="./ScreenShots/profile2.PNG" alt="Image 2" width="300" height="200"></td>
-  </tr>
-</table>
 
-### Authentication
-
-<table>
- <tr> 
-    <td><img src="./ScreenShots/login.PNG" alt="Image 1" width="300" height="200"></td>
-    <td><img src="./ScreenShots/register.PNG" alt="Image 2" width="300" height="200"></td>
-  </tr>
-</table>
-
-### Personal Info Page/Donation Page
-
-<table>
- <tr> 
-    <td><img src="./ScreenShots/personalinfo.PNG" alt="Image 1" width="300" height="200"></td>
-    <td><img src="./ScreenShots/donation.PNG" alt="Image 2" width="300" height="200"></td>
-  </tr>
-</table>
 
 ## Authors
 
