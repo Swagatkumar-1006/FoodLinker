@@ -12,7 +12,6 @@
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Components](#components)
-- [Interfaces](#interfaces)
 - [Contributing](#contributing)
 
 ## Introduction
