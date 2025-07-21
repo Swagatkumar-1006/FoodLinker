@@ -1,4 +1,4 @@
-# FoodShare
+# FoodLinker
 
 The FoodShare platform is designed to provide a seamless digital interface for restaurants, grocery stores, and individuals to donate surplus food to local shelters or individuals in need. By doing so, this initiative aims to reduce food wastage while fostering a sense of community responsibility and support. The platform connects donors, recipients, and volunteers to ensure efficient and effective management of food resources.
 
@@ -40,7 +40,7 @@ Ensure the following prerequisites are installed before running the application:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Swagatkumar-1006/FoodShare
+git clone https://github.com/Swagatkumar-1006/FoodLinker
 cd FoodShare
 cd mern
 npm install
